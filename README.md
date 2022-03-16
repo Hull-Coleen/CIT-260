@@ -1,5 +1,5 @@
 # CIT-260
-<div style="color:red">test
+<div style="background-color:powderblue;" style="color:red;">test
 </div>
 
 - !#f03c15 
